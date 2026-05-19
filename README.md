@@ -68,7 +68,7 @@ The project also includes web scraping modules that collect esports data directl
 
 All datasets used in this project were collected from:
 
-[:contentReference[oaicite:0]{index=0}](https://liquipedia.net/counterstrike/Main_Page)
+[Liquipedia Counter-Strike](https://liquipedia.net/counterstrike/Main_Page)
 
 The project uses **BeautifulSoup** and **Requests** libraries to scrape:
 - Match statistics
